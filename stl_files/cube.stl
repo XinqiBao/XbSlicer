@@ -1,0 +1,86 @@
+solid CADmodel
+facet normal 0.0 -0.0 900.0
+outer loop
+vertex 15.0 -15.0 15.0
+vertex 15.0 15.0 15.0
+vertex -15.0 15.0 15.0
+endloop
+endfacet
+facet normal 0.0 0.0 900.0
+outer loop
+vertex 15.0 -15.0 15.0
+vertex -15.0 15.0 15.0
+vertex -15.0 -15.0 15.0
+endloop
+endfacet
+facet normal -900.0 0.0 0.0
+outer loop
+vertex -15.0 -15.0 15.0
+vertex -15.0 15.0 15.0
+vertex -15.0 15.0 -15.0
+endloop
+endfacet
+facet normal -900.0 0.0 0.0
+outer loop
+vertex -15.0 -15.0 15.0
+vertex -15.0 15.0 -15.0
+vertex -15.0 -15.0 -15.0
+endloop
+endfacet
+facet normal 0.0 900.0 0.0
+outer loop
+vertex 15.0 15.0 15.0
+vertex 15.0 15.0 -15.0
+vertex -15.0 15.0 -15.0
+endloop
+endfacet
+facet normal 0.0 900.0 0.0
+outer loop
+vertex 15.0 15.0 15.0
+vertex -15.0 15.0 -15.0
+vertex -15.0 15.0 15.0
+endloop
+endfacet
+facet normal 900.0 0.0 0.0
+outer loop
+vertex 15.0 -15.0 15.0
+vertex 15.0 -15.0 -15.0
+vertex 15.0 15.0 -15.0
+endloop
+endfacet
+facet normal 900.0 -0.0 0.0
+outer loop
+vertex 15.0 -15.0 15.0
+vertex 15.0 15.0 -15.0
+vertex 15.0 15.0 15.0
+endloop
+endfacet
+facet normal 0.0 0.0 -900.0
+outer loop
+vertex 15.0 -15.0 -15.0
+vertex -15.0 -15.0 -15.0
+vertex -15.0 15.0 -15.0
+endloop
+endfacet
+facet normal 0.0 0.0 -900.0
+outer loop
+vertex 15.0 -15.0 -15.0
+vertex -15.0 15.0 -15.0
+vertex 15.0 15.0 -15.0
+endloop
+endfacet
+facet normal 0.0 -900.0 0.0
+outer loop
+vertex 15.0 -15.0 -15.0
+vertex 15.0 -15.0 15.0
+vertex -15.0 -15.0 15.0
+endloop
+endfacet
+facet normal 0.0 -900.0 0.0
+outer loop
+vertex 15.0 -15.0 -15.0
+vertex -15.0 -15.0 15.0
+vertex -15.0 -15.0 -15.0
+endloop
+endfacet
+endsolid CADmodel

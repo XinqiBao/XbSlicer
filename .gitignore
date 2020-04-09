@@ -1,0 +1,8 @@
+tags
+xbslicer*
+build/
+stl_files/*
+gcode_files/*
+*.~
+
+!/stl_files/cube.stl
