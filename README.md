@@ -2,7 +2,7 @@
 
 A program for slicing 3D models in STL format to GCode file.
 
-Some optimizations have been implemented, check [XbSlicer paper](http://xinqibao2017.com/file/AnOptimizedSlicerFor3DPrinting.pdf) for detail.
+Some optimizations have been implemented, check [XbSlicer paper](https://xinqibao.xyz/file/AnOptimizedSlicerFor3DPrinting.pdf) for detail.
 
 Yet this software itself is not the best, but it does something. It's a personal project for practice, helped by professor Dov Kruger, from Department of Electrical & Computer Engineering at Stevens Institute of Technology.
 
